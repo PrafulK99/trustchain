@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+
+# Flask
+instance/
+*.log
+*.sqlite3
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.vite/
+frontend/.parcel-cache/
+frontend/.next/
+
+# OS
+.DS_Store
+Thumbs.db
